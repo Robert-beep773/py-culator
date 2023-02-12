@@ -1,5 +1,5 @@
 print("send help")
-print("I'm trapped! :(")
+print("I'm trapped! :()")
 
 print("Hi")
 #ads
